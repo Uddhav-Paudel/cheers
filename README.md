@@ -23,13 +23,16 @@ The Cheers application is built using the following technologies and libraries:
 The Cheers application is designed to be fully responsive, providing an optimal user experience across various screen sizes. Here's how the responsiveness is implemented:
 
 1. **Medium and Large Screens:** On screens equal to or larger than the medium size, beer items are displayed in two columns, making the most of the available space.
-
-2. **Small Screens:** For screens between small and medium sizes, a single row is displayed to ensure content fits the viewport appropriately.
-
-3. **Inner Components:** Modals, tooltips, and other inner components are also responsive, adapting to different screen sizes seamlessly.
-
 ![Medium screens](md-sized-screen.gif)
+
+3. **Small Screens:** For screens between small and medium sizes, a single row is displayed to ensure content fits the viewport appropriately.
 ![Small screens](small-sized-screen.gif)
+
+5. **Inner Components:** Modals, tooltips, and other inner components are also responsive, adapting to different screen sizes seamlessly.
+
+
+
+
 
 ## Application Architecture
 
