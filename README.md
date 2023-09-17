@@ -28,7 +28,7 @@ The Cheers application is designed to be fully responsive, providing an optimal 
 
 3. **Inner Components:** Modals, tooltips, and other inner components are also responsive, adapting to different screen sizes seamlessly.
 
-![Small screens](./small-sized-screen.gif)
+![Small screens](md-sized-screen.gif)
 ![Medium screens](./md-sized-screen.gif)
 
 ## Application Architecture
